@@ -1,2 +1,9 @@
-# cpsc411_homework2
-Second homework assignment for CPSC-411 Fall 2020 (Android). Implementing a Claim adding UI in Android that stores data in REST server from Homework 1.
+# CPSC 411-01 Homework Assignment #2
+## by Julian Coronado
+Goal: Implement an Android UI that processes a "claim" and adds to the local database / server from Homework #1.
+
+<p align="center">
+  <img src="assets/empty_ui.png" width="30%">
+  <img src="assets/filled_ui.png" width="30%">
+  <img src="assets/processed_ui.png" width="30%">
+</p>
